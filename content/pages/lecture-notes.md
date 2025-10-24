@@ -41,15 +41,15 @@ Discussion of aspects of computers and their operation. An example is given of p
 
 Links that are in the notes for this lecture:
 
-{{% resource_link "6de3bf61-ffb1-49f5-af76-887a4a7a88a7" "What is big-endian?" %}}
+[What is big-endian?](http://www.webopedia.com/TERM/B/big_endian.html)
 
-{{% resource_link "7510b417-e3a7-45d2-ad86-37c628fbff1c" "Green's Theorem" %}}
+[Green's Theorem](http://mathworld.wolfram.com/GreensTheorem.html)
 
-{{% resource_link "ff0fc3ef-a481-4085-8e76-1fc751ab6fdc" "The IEEE standard for floating point arithmetic" %}}
+[The IEEE standard for floating point arithmetic](http://www.dsc.ufcg.edu.br/~cnum/modulos/Modulo2/IEEE754_2008.pdf)
 
 Minor links for those interested:
 
-{{% resource_link "f914ffe7-fec7-4a88-8a02-d438792c854d" "Velocity Engine" %}}
+[Velocity Engine](https://velocity.apache.org/engine/1.7/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3–7
@@ -71,13 +71,13 @@ Lec #7 ({{% resource_link "0b6b7007-996e-1952-0a44-e93a418b1e68" "PDF" %}})
 
 ### Lec #3
 
-Started FORTRAN (Formula Translation). Went through the basic elements that make up this language. An on-line version of a FORTRAN 77 manual can be found {{% resource_link "3f3e6012-8205-4625-9927-c9ffdd5ec36f" "here" %}}. In reading these notes, you should think about operations you want to do and what command or commands do you use to do that. The list on FORTRAN intrinsic functions can be found {{% resource_link "6a4b5c9e-ab34-48ff-873a-bdca5c76cddd" "here" %}}.
+Started FORTRAN (Formula Translation). Went through the basic elements that make up this language. An on-line version of a FORTRAN 77 manual can be found [here](http://physik.uibk.ac.at/hephy/praktikum/fortran_manual.pdf). In reading these notes, you should think about operations you want to do and what command or commands do you use to do that. The list on FORTRAN intrinsic functions can be found [here](https://gcc.gnu.org/onlinedocs/gcc-3.4.6/g77/Table-of-Intrinsic-Functions.html).
 
 Other links to look at:
 
-{{% resource_link "9654c762-f450-4af2-acc2-59318c6d1b86" "The FORTRAN Programming Language" %}}
+[The FORTRAN Programming Language](https://ourcodingclub.github.io/tutorials/fortran-intro/)
 
-{{% resource_link "6c552b94-3101-4029-9422-0b1abaca9895" "Wikipedia Definition of FORTRAN" %}}
+[Wikipedia Definition of FORTRAN](http://en.wikipedia.org/wiki/Fortran)
 
 ### Lec #4
 
@@ -94,9 +94,9 @@ To use the f90 compiler on Athena, use add sunsoft.
 
 Other sources of information:
 
-{{% resource_link "d5eb1377-c416-44f2-ab5b-b150cb68fd28" "O'Reilly series of books on programming" %}} 
+[O'Reilly series of books on programming](https://www.oreilly.com/search/?q=programming&type=*&rows=10) 
 
-{{% resource_link "da206473-9767-422c-a806-6e301dda7cd4" "FORTRAN Resources" %}} - useful link with lots of information on FORTRAN in its various forms
+[FORTRAN Resources](https://fortran-lang.org/learn/) - useful link with lots of information on FORTRAN in its various forms
 
 ### Lec #5
 
@@ -196,13 +196,13 @@ Lec 12 NB ({{% resource_link "3c14d2a4-2174-0a89-389d-70a8fb044a10" "NB" %}})
 
 Introductory screen casts from Wolfram:
 
-{{% resource_link "b7550430-eb7f-4678-918d-a69be911f7bd" "Introduction" %}}
+[Introduction](http://url.wolfram.com/oHLP0k/)
 
-{{% resource_link "e4f5f433-8306-4571-999a-3222aef52537" "Making Models" %}}
+[Making Models](https://www.wolfram.com/broadcast/video.php?c=135&v=514)
 
-{{% resource_link "c0fa5c4b-4e36-48dc-ac53-d55cb9852f1c" "Use of the demonstrations site" %}}
+[Use of the demonstrations site](https://demonstrations.wolfram.com/about.html)
 
-{{% resource_link "edd5e48f-53a9-4a9c-a8ac-f63c130c4e63" "Featured Demonstrations" %}}
+[Featured Demonstrations](http://demonstrations.wolfram.com/index.html)
 
 ### Lec #13
 
@@ -279,9 +279,9 @@ Lec #19 ({{% resource_link "f826ae44-8931-a059-34c1-0e02348127c2" "PDF" %}})
 
 Python I: Python Language Basics
 
-{{% resource_link "6d647422-de95-4650-b53e-e4a7c7a2e54d" "Python Programming Language—Official Website" %}}     
-{{% resource_link "02bc981d-9ac6-43e6-b627-dfe303f2f7ef" "Python v2.7.3 documentation" %}}     
-{{% resource_link "9a1c4970-82dc-45b1-a4f6-f42ea0a948e3" "The Python Tutorial" %}}
+[Python Programming Language—Official Website](http://www.python.org/)     
+[Python v2.7.3 documentation](http://docs.python.org/index.html)     
+[The Python Tutorial](http://docs.python.org/tutorial/)
 
 ### Lec #19
 
@@ -344,7 +344,7 @@ Discussion of final projects
 
 Introduction of class project. Graphics formats and issues about vector and pixel based graphics.
 
-{{% resource_link "e659bf1f-7458-46e4-bad2-815de92d6852" "GMT graphics package" %}} for mapping applications
+[GMT graphics package](http://gmt.soest.hawaii.edu/) for mapping applications
 
 ### Lec #23
 
@@ -358,9 +358,9 @@ Statistical analysis tools including generation random variables and correlated 
 
 The order of the class presentations will be decided in this class and posted after the class.
 
-{{% resource_link "04a91d32-46fb-49d3-9eaf-4680101695ae" "Cuda Zone" %}}
+[Cuda Zone](http://www.nvidia.com/object/cuda_get.html)
 
-{{% resource_link "2384568f-4ae7-4fac-a2c3-2f91d83d2427" "MATLAB Implementation" %}}
+[MATLAB Implementation](http://www.accelereyes.com/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
